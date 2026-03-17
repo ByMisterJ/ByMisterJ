@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Jose Aranda 
-💻 Current Junior Developer  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-aranda-paricio-ab70412a2/)  
+💻 Current Developer  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-aranda-paricio-ab70412a2/)  
 🌱 Currently learning **n8n** and automation workflows  
 ⚡ Interested in **backend, automation and modern web development**
 
