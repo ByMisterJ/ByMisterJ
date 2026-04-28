@@ -44,6 +44,6 @@
  
 ### 📊 GitHub Stats
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByMisterJ&show_icons=true&theme=tokyonight)-->
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ByMisterJ?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisterJ&layout=compact&theme=tokyonight) 
 
