@@ -2,13 +2,13 @@
 
 **Full Stack Developer** | Especializado en **PHP, Desarrollo Web & Optimización** 💻  
 🚀 Construyendo soluciones web eficientes y optimizadas  
-📍 Barcelona, España
+📍 Castellón, España
 
 ---
 
 ## 🎯 About Me
 
-Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. Me especializo en **PHP** para backend, desarrollo web moderno en frontend, y optimización de rendimiento. Aprendiendo **n8n** para ampliar mis conocimientos en automatización de workflows.
+Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. Me especializo en **PHP** para backend, desarrollo web moderno en frontend, y optimización de rendimiento.
 
 **Mi objetivo:** Crear código limpio, eficiente y escalable.
 
