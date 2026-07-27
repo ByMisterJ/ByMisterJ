@@ -1,16 +1,26 @@
 ## 👋 Hola, soy Jose Aranda
 
-**Full Stack Developer** | Especializado en **PHP, Desarrollo Web & Optimización** 💻  
-🚀 Construyendo soluciones web eficientes y optimizadas  
+**Full Stack Developer** | **Cyberseguridad** | **Mantenimiento de Sistemas** 💻  
+🚀 Construyendo soluciones web eficientes, seguras y optimizadas  
 📍 Castellón, España
 
 ---
 
 ## 🎯 About Me
 
-Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. Me especializo en **PHP** para backend, desarrollo web moderno en frontend, y optimización de rendimiento.
+Desarrollador Full Stack con experiencia en crear aplicaciones web robustas y optimizadas. Actualmente trabajando en **CLICACS** como **Desarrollador Web**, especializado en **PHP** para backend, desarrollo web moderno en frontend, optimización de rendimiento, **cyberseguridad** y **mantenimiento de sistemas**.
 
-**Mi objetivo:** Crear código limpio, eficiente y escalable.
+**Mi objetivo:** Crear código limpio, eficiente, seguro y escalable.
+
+---
+
+## 💼 Experiencia Actual
+
+**CLICACS** | Desarrollador Web
+- Desarrollo y mantenimiento de aplicaciones web
+- Implementación de medidas de cyberseguridad
+- Administración y mantenimiento de sistemas
+- Optimización de rendimiento y seguridad
 
 ---
 
@@ -42,6 +52,10 @@ Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. 
 ![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-Automation-ea4b71?style=flat-square&logo=n8n&logoColor=white)
 
+### 🔒 Security
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Best_Practices-E74C3C?style=flat-square&logo=security&logoColor=white)
+![System Admin](https://img.shields.io/badge/System_Admin-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ---
 
 ## 📚 Especialidades
@@ -52,6 +66,8 @@ Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. 
 - **📦 WordPress:** Desarrollo de plugins y temas personalizados
 - **📊 Bases de Datos:** Diseño, optimización y consultas eficientes
 - **🔌 APIs:** Diseño e integración de REST APIs
+- **🔒 Cyberseguridad:** Implementación de mejores prácticas de seguridad
+- **🖥️ Mantenimiento de Sistemas:** Administración y soporte de infraestructura
 
 ---
 
@@ -62,6 +78,7 @@ Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. 
 - DevOps y CI/CD
 - Cloud deployment (AWS, GCP)
 - Testing y calidad de código
+- Seguridad en aplicaciones web (OWASP)
 
 ---
 
@@ -81,7 +98,8 @@ Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-josearandaparicio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josearandaparicio@gmail.com)
+[![Email Personal](https://img.shields.io/badge/Email%20Personal-josearandaparicio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josearandaparicio@gmail.com)
+[![Email CLICACS](https://img.shields.io/badge/Email%20CLICACS-jose%40clicacs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose@clicacs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Aranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-aranda-paricio-ab70412a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-ByMisterJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByMisterJ)
 
@@ -91,6 +109,6 @@ Desarrollador con experiencia en crear aplicaciones web robustas y optimizadas. 
 
 <div align="center">
 
-**⭐ Si te interesa hablar sobre automatización, optimización o cualquier proyecto, no dudes en contactarme**
+**⭐ Si te interesa hablar sobre desarrollo web, automatización, cyberseguridad, optimización o cualquier proyecto, no dudes en contactarme**
 
 </div>
