@@ -99,7 +99,6 @@ Desarrollador Full Stack con experiencia en crear aplicaciones web robustas y op
 <div align="center">
 
 [![Email Personal](https://img.shields.io/badge/Email%20Personal-josearandaparicio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josearandaparicio@gmail.com)
-[![Email CLICACS](https://img.shields.io/badge/Email%20CLICACS-jose%40clicacs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose@clicacs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Aranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-aranda-paricio-ab70412a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-ByMisterJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByMisterJ)
 
